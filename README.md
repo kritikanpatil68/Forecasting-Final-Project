@@ -21,8 +21,8 @@ In this project, I:
 - scikit-learn
 
 ## Files in This Repository
-- `forecasting_final_project.ipynb` – complete notebook with code, analysis, and interpretation
-- `forecasting_final_project.html` – shareable project output
+- `Final_Project.ipynb` – complete notebook with code, analysis, and interpretation
+- `Final_Project.html` – shareable project output
 - `data/` – dataset used for the analysis
 - `images/` – selected visuals from the project
 
